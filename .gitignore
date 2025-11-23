@@ -1,0 +1,15 @@
+# Node
+node_modules/
+build/
+
+# Logs
+*.log
+
+# Docker
+*.pid
+
+# Env
+.env
+
+# React
+.cache/
